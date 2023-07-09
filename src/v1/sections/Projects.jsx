@@ -15,7 +15,7 @@ const Projects = () => {
         if (projectsState.length === 0) {
             fetch("/data/projects.json").then(res => res.json()).then(data => {
                 setProjectsState(data)
-                setProject(data[0])
+
             });
 
         }
