@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Onlin Tic Tac Teo game",
+        "techs": [
+            "Laravel",
+            "bootstrap",
+            "react"
+        ],
+        "images": [
+            "/data/images/1.jpeg",
+            "/data/images/2.jpeg",
+            "/data/images/3.jpeg",
+            "/data/images/4.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "School managemant system",
+        "techs": [
+            "Laravel",
+            "bootstrap",
+            "react"
+        ],
+        "images": [
+            "/data/images/5.jpeg",
+            "/data/images/6.jpeg",
+            "/data/images/3.jpeg",
+            "/data/images/4.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Real estate",
+        "techs": [
+            "Laravel",
+            "bootstrap",
+            "react"
+        ],
+        "images": [
+            "/data/images/6.jpeg",
+            "/data/images/4.jpeg",
+            "/data/images/3.jpeg",
+            "/data/images/5.jpeg"
+        ]
+    }
+]
