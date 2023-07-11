@@ -2,6 +2,8 @@
     {
         "id": 1,
         "title": "Onlin Tic Tac Teo game",
+        "demo": "https://xo.bglila.com",
+        "source": "https://github.com/Glilabousselham/onlign-xo-reactjs-expressjs-2023",
         "techs": [
             "Nodejs",
             "Socket.io",
@@ -26,6 +28,8 @@
     {
         "id": 2,
         "title": "Real Estate in Morocco for Sale or Rent!",
+        "demo": "https://home4u.bglila.com",
+        "source": "https://github.com/Glilabousselham/",
         "techs": [
             "Laravel",
             "Mysql",
