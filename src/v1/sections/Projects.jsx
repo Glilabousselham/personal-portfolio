@@ -73,7 +73,7 @@ function ProjectItem({ item, onDetails }) {
                 {/* techs */}
 
                 <div className='text-sm'>Technologies :</div>
-                <div className='flex gap-2 text-sm'>
+                <div className='flex gap-2 flex-wrap text-sm'>
                     {item.techs.map((t, i) => (
                         <Button key={i}>{t}</Button>
                     ))}
