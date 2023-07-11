@@ -13,7 +13,7 @@ const Projects = () => {
 
     useEffect(() => {
         if (projectsState.length === 0) {
-            fetch("/personal-portfolio/data/projects.json").then(res => res.json()).then(data => {
+            fetch("/data/projects.json").then(res => res.json()).then(data => {
                 setProjectsState(data)
 
             });
