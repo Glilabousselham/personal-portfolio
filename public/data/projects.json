@@ -3,45 +3,44 @@
         "id": 1,
         "title": "Onlin Tic Tac Teo game",
         "techs": [
-            "Laravel",
-            "bootstrap",
-            "react"
+            "Nodejs",
+            "Socket.io",
+            "Expressjs",
+            "Mongodb",
+            "Tailwindcss",
+            "React"
         ],
         "images": [
-            "/data/images/1.jpeg",
-            "/data/images/2.jpeg",
-            "/data/images/3.jpeg",
-            "/data/images/4.jpeg"
+            "/data/images/xo/1.png",
+            "/data/images/xo/2.png",
+            "/data/images/xo/3.png",
+            "/data/images/xo/4.png",
+            "/data/images/xo/5.png",
+            "/data/images/xo/6.png",
+            "/data/images/xo/7.png",
+            "/data/images/xo/8.png",
+            "/data/images/xo/9.png",
+            "/data/images/xo/10.png"
         ]
     },
     {
         "id": 2,
-        "title": "School managemant system",
+        "title": "Real Estate in Morocco for Sale or Rent!",
         "techs": [
             "Laravel",
-            "bootstrap",
-            "react"
+            "Mysql",
+            "Tailwindcss",
+            "Reactjs"
         ],
         "images": [
-            "/data/images/5.jpeg",
-            "/data/images/6.jpeg",
-            "/data/images/3.jpeg",
-            "/data/images/4.jpeg"
-        ]
-    },
-    {
-        "id": 3,
-        "title": "Real estate",
-        "techs": [
-            "Laravel",
-            "bootstrap",
-            "react"
-        ],
-        "images": [
-            "/data/images/6.jpeg",
-            "/data/images/4.jpeg",
-            "/data/images/3.jpeg",
-            "/data/images/5.jpeg"
+            "/data/images/home4u/1.png",
+            "/data/images/home4u/2.png",
+            "/data/images/home4u/3.png",
+            "/data/images/home4u/4.png",
+            "/data/images/home4u/5.png",
+            "/data/images/home4u/6.png",
+            "/data/images/home4u/7.png",
+            "/data/images/home4u/8.png"
         ]
     }
 ]
